@@ -4,3 +4,21 @@
 [submodule "42_get_next_line"]
 	path = 42_get_next_line
 	url = https://github.com/Kingsolomon445/42_get_next_line.git
+[submodule "42_ft_printf"]
+	path = 42_ft_printf
+	url = https://github.com/Kingsolomon445/42_ft_printf.git
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = https://github.com/Kingsolomon445/42_minitalk.git
+[submodule "42_so_long"]
+	path = 42_so_long
+	url = https://github.com/Kingsolomon445/42_so_long.git
+[submodule "42_philosophers"]
+	path = 42_philosophers
+	url = https://github.com/Kingsolomon445/42_philosophers.git
+[submodule "42_cub3D"]
+	path = 42_cub3D
+	url = https://github.com/Kingsolomon445/42_cub3D.git
+[submodule "42_CPLUSPLUS_1"]
+	path = 42_CPLUSPLUS_1
+	url = https://github.com/Kingsolomon445/42_CPLUSPLUS_1.git
